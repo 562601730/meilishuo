@@ -1,0 +1,24 @@
+Ê×Ò³
+con 1200
+
+header 230 
+  top 30
+  search 120
+  nav 13*2+12=38
+banner 800 400
+bodyer
+  title 28
+  img-list	340*3+83*2+98=1284
+footer 297
+ÁĞ±íÒ³
+ÏêÇéÒ³
+¹ºÎï³µÒ³
+µÇÂ¼Ò³
+header
+ 97 - 3 = 94
+bodyer
+ 3 + 600 + 15
+footer
+
+×¢²áÒ³
+µÇÂ½Ò³
